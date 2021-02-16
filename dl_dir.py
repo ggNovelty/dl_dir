@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 headers = {'user-agent': 'test-app/0.0.1'}
 
 print('Welcome to dl_dir.py\n')
-print('Please enter net directory URL: ')
+print('Please enter directory URL: ')
 base_url = input()
 
 
